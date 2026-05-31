@@ -14,9 +14,9 @@
 
 ---
 
-<p align="center">
+...<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ash-sync&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+</p>...
 
 ## 🧑‍💻 About Me
 

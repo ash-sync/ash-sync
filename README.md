@@ -128,7 +128,7 @@ Status      : Always learning, always building 🚀
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://github.com/ash-sync/ash-sync/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ash-sync/ash-sync/blob/main/workflows/snake.yml)
 
 ---
 

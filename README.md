@@ -119,9 +119,8 @@ Status      : Always learning, always building 🚀
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ash-sync&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-sync&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ash-sync&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ash-sync&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

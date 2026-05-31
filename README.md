@@ -6,7 +6,7 @@
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ash-sync">
+  <a href="https://www.linkedin.com/in/md-ashifur-rahman-889103192/">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
 </p>
